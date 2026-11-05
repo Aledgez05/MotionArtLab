@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Motion Art Lab
+outputs/gallery/*
+!outputs/gallery/.gitkeep
+outputs/reports/*
+.ruff_cache/
